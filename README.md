@@ -73,8 +73,9 @@ Proyecto creado por **Christian**, alias *El Cabro DBA*
   /___/|  CABRA |___\
       LIBRARY · DB · RELACIONAL
 
-      ![ERD de la biblioteca](https://raw.githubusercontent.com/cv793937-gif/biblioteca-sql-relacional/main/docs/ERD.png)
-
+   
+      
+![ERD de la biblioteca](docs/ERD.png)
 
 
 
