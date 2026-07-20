@@ -75,6 +75,8 @@ Proyecto creado por **Christian**, alias *El Cabro DBA*
 
       ## 📘 Diagrama ERD
 
-![Diagrama ERD](docs/ERD.png)
+biblioteca-sql-relacional
+/ERD.png
+
 
 
