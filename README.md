@@ -72,7 +72,9 @@ Proyecto creado por **Christian**, alias *El Cabro DBA*
    __/  /     \  \__
   /___/|  CABRA |___\
       LIBRARY · DB · RELACIONAL
-![Diagrama ERD](ERD.png)
+      
+![Diagrama ERD](documentos/ERD.png)
+
 
 
 
